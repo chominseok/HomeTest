@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>테스트 입니다.!!!!!</h1>
-	<p>아...피곤하다.</p>
+	<h1>test 브런치 입니다!!!!</h1>
+	<p>테스트 합니다!</p>
 </body>
 </html>
