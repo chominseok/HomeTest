@@ -9,5 +9,7 @@
 <body>
 	<h1>test 브런치 입니다!!!!</h1>
 	<p>테스트 합니다!</p>
+	<h1>test 브런치</h1>
+	<p>test 브런치</p>
 </body>
 </html>
